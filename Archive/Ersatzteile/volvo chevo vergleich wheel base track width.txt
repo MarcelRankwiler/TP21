@@ -1,0 +1,15 @@
+K5 
+quarter-ton
+467.36 total
+269.24cm wheel base
+
+K10
+half-ton
+485.14cm total
+297.18cm wheel base 
+
+Volvo
+273 wheel base
+268.5cm wheel base (105 3/4)
+track front: 1550mm (61")
+track rear: 1600mm (63")
