@@ -1,0 +1,81 @@
+Zündkerze: AC 45 
+Zündreihenfolge: 1-5-3-6-2-4
+Zündzeitpunkt: 0-2° vor OT
+
+
+Zündverteiler-Kontakte Fett: Bosch-Ft v 26
+
+
+
+
+YT Video Kommentar https://www.youtube.com/watch?v=Xx22LnSmHx8:
+
+I fitted a standard Lumenition Optronic Ignition system to eliminate the points from the Sugga's Bosch distributor. 
+I used the standard system, as opposed to the performance system, because it can run with the Sugga's original 3 ohm coil. 
+If the performance system is used then the coil would need to be changed for a matching low resistance 1.5 ohm coil. 
+On such a low-revving engine the Performance constant energy ignition system is over-kill. 
+
+All three screw caps on the original coil should be unscrewed and the HT lead connections cleaned of any dried grease or corrosion as this can cause a high resistance reading for the coil (i.e. anything above 3 ohms) 
+and reduce the intensity of the ignition spark. The screw caps are difficult to remove so you may need to heat them up and get penetrating oil into their threads, whilst rocking them back and forth with molegrips. 
+Don't grip the screw caps too tightly as they are soft.
+
+The Optronic system uses an infrared optical eye to trigger the ignition unit via a 6-bladed chopper. I bought the ignition module and infra-red trigger secondhand but I had to buy a new chopper and base plate directly 
+from the manufacturer, Autocar Limited. Their technical department advised me on the best parts to use as the Sugga's Bosch distributor isn't listed in their catalogue so they supplied the closest fitting items, 
+which went in perfectly. I had to replace the original base plate in the distributor with a Lumenition replacement base plate for a Ducellier distributor, to which the infra-red eye is screwed. 
+
+https://www.holden.co.uk/p/ducellier_vacuum_advance
+
+The chopper is a push-fit onto the rotor shaft, but I had to fabricate an 8 mm tall retaining ring to sit between the chopper and the rotor arm. This ring stops the chopper from moving up the shaft as the chopper 
+is not quite the right design for the Sugga's distributor.
+
+I mounted the ignition module onto the bulkhead and extended the wires to connect with the existing fittings on the voltage regulator above the dynamo. I added a 2-way terminal block next to the regulator to provide 
+a junction point for the new wiring.
+
+The timing marks on the crankshaft pulley were no longer valid for the new ignition system. Instead I set the timing "by ear". This involved rotating the distributor back and forth whilst listening to the strength of the 
+engine's trust as it ran at various fixed engine speeds. I set the engine speed using the manual throttle control on the dashboard.
+
+I replaced all the high tension leads with standard copper-cored 7mm HT cable, using about 4 metres.
+
+The engine now starts easily and runs really smoothly throughout the entire rev range, with no ignition breakdown at higher revs. The engine also pulls well, but this is mostly due to me replacing the piston rings 
+with new ones. I did find that the engine had difficultly in pulling past 40 mph (~60kph) so I sent the distributor off to have its timing curve recalibrated. This was done by adjusting the weights and springs inside the distributor. 
+The work was carried out by :
+
+H&H Ignition Solutions
+http://www.h-h-ignitionsolutions.co.uk/
+Tel: 01384 261500
+
+
+The original springs were too weak and allowed the weights to reach their maximum throw-out (advance) at just above tick-over. I asked H&H to set the springs to operate with a maximum rev limit on the engine of about 3000rpm.
+
+The Sugga's original Bosch distributor cap is now obsolete but it can be replaced with a similar later type. The original part number shown the the Sugga's parts catalogue is:
+Bosch - WAM 9 Z 1 or Bosch - ZVS 75 Z 10
+
+The markings on the original distributor cap are: Bosch symbol, 2/2925Z 158.
+
+The replacement distributor cap is a Quinton Hazell XD138 QH. This cap was also fitted to BMW 528 2800 (1968 -- 1977). The original cap has spikes in the centre of each HT lead connecting post. 
+The replacement XD138 distributor cap doesn't have these spikes and the leads should have metal terminations fitted to push into the holes. I managed to get 7 terminal U-shaped clips that fit onto the end of the lead 
+and are bent backwards to grip the lead's insulation with two spikes. The later XD138 distributor cap is a much heavier design than the original one.
+
+I found the distributor parts at:
+
+Collector Car Parts
+http://www.collectorscarparts-heathro...
+Tel: 020 8897 3774 (9am - 6pm UK time)
+
+The original Bosch rotor arm, ZVT53Z9 155, is more difficult to find. Altyco Parts AB may stock them.
+-> Passt der? https://www.ebay.com/itm/144990441501
+
+
+The Lumenition parts used were as follows:
+
+PMA50 - Ignition Module
+OS50   - Optronic Infrared Eye
+FK214 - Fitting kit for Bosch 6 cylinder, clockwise
+20077 - Chopper non-current Bosch 6 cylinder
+10170 - Adaptor Plate, Ducellier for FK803 & FK829
+
+Contact details for the Lumenition parts are:
+
+AUTOCAR ELECTRICAL EQUIPMENT Co. Ltd.
+http://www.autocar-electrical.com/ 
+Tel: 0044 (0)20 7403 4334

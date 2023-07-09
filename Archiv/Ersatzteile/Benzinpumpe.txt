@@ -1,0 +1,28 @@
+Elektrische: PIERBURG 7.21440.51.0 Kraftstoffpumpe 
+-> Muss unterhalb von Tank montiert sein damit Benzin nicht augesaugt werden muss
+
+
+
+Evtl identisch wie Volvo 120, 130, 220, P1800, PV, P210 Motor B18b
+
+https://www.skandix.de/en/installationpictures/Volvo-P1800/Fuel-pump-glass/1056690/2000448/
+https://www.skandix.de/en/spare-parts/engine/fuel-mixture-formation/fuel-supply-system/pumps/fuel-pump-exchange-part/1022451/
+https://www.original-auto-teile.de/volvo/ventil-0.php
+https://vp-autoparts.de/de/artiklar/volvo/140-164/kraftstoffsystem-auspuffanlage-4/tank-kraftstoffpumpe-4/benzinpumpe-140-b20a/index.html
+
+
+ED Motor: Volvo PV 444. Fast gleich. Hebel und Antriebshebel ist anders.
+
+
+
+Membran: https://www.flexolite.co.uk/products/fprd1-diaphragm_assembly-fprd1
+Repsatz: https://www.skandix.de/de/fahrzeug-teile/motor/kraftstoffaufbereitung/kraftstofffoerderung/pumpen/reparatursatz-kraftstoffpumpe/1007300/?bi=e87c3542024846b7627a9c11a04b45de
+Repsatz von Pumpe AC7950581 wird getestet.
+
+Volvo 61942
+Skandix Artikelnummer 1056690
+passend für:
+Fahrzeugtyp
+Volvo 120, 130, 220 mit Einschränkungen: Modelljahre, Motortyp
+Volvo P1800 mit Einschränkungen: Modelljahre, Motortyp
+Volvo PV544, P210 Duett mit Einschränkungen: Modelljahre, Motortyp

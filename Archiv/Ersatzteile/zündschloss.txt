@@ -1,0 +1,49 @@
+Einsatz: Porsche 356 1954
+
+Bosch sh/zs4/1
+Pre A ignition switch
+22mm Durchmesser
+3 Kontakte
+C073 (Keycode)
+Anschlüsse: 30b (rot), 61a (grau), 15/54 (2x grün) 
+
+Bosch Nummer: 0 342 005 001
+
+The 53 ato 55 cars were Cxxx key coded, the 51-53's were Bxxx, where the xxx is the key number.
+
+
+Artikel: Zünd Startschalter
+Hersteller: BOSCH
+OEM Nummer: 000 545 34 13 / 000 821 01 33 / 0502878 / 1240106 / 50 76335 1000 / 712 1 86 204 0 / 7 345 011 000 / 7 345 014 000 / 81 25501 6008 / 81 25501 7013 / 81 25516 0033 / A 000 545 34 13 / A 000 821 01 33 / J 1541675 / P 1541675 J
+ersetzen: 0 342 002 001 / 0 342 004 001 / 0 342 004 002 / 0 342 004 003 / 0 342 005 001 / 0 342 006 002 / 0 342 006 004 / 0 342 006 008
+ersetzt durch: 0 342 002 001 / 0 342 004 001 / 0 342 004 002 / 0 342 004 003 / 0 342 005 001 / 0 342 006 002 / 0 342 006 004 / 0 342 006 008
+
+
+ BOSCH	SH/ZS6/1
+  CASE IH	J 1541675
+  CASE IH	P 1541675 J
+  DAF	0502878
+  KÄSSBOHRER	7 345 011 000
+  KÄSSBOHRER	7 345 014 000
+  MAN	50 76335 1000
+  MAN	81 25501 6008
+  MAN	81 25501 7013
+  MAN	81 25516 0033
+  MERCEDES-BENZ	000 545 34 13
+  MERCEDES-BENZ	000 821 01 33
+  MERCEDES-BENZ	A 000 545 34 13
+  MERCEDES-BENZ	A 000 821 01 33
+  OPEL	1240106
+  POCLAIN	J 1541675
+  PUCH	712 1 86 204 0
+
+
+https://www.agropomoc.com/Prod-146908-bosch-schlusselschalter.html0%20342%20005%20001
+Bosch Schlüsselschalter
+Product code: 2500342006001
+replaces: 0342002001, 0342004001, 0342004002, 0342004003, 0342005001, 0342006002, 0342006008
+
+
+Ersatz prüfen:
+https://www.auto-doc.ch/bosch/1155059?gshp=1&gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqQWBBojAFSpv6mSphDEmFiwg3V3PXBaSqP303Pf7PKuKVUVHtyVS2BoCn3QQAvD_BwE
+
